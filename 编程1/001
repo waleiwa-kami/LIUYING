@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" , initial-scale="1" />
+    <title>钧博的教学网站</title>
+    <style>
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      style="
+        background-color: rgb(132, 210, 166);
+        text-align: center;
+        padding: 10px;
+      "
+    >
+      <img
+        src="https://raw.githubusercontent.com/waleiwa-kami/LIUYING/refs/heads/main/5a7ccf0fbfbc2959d9c8ecf04150c9053706933770979858.jpg%40480w_268h_1s.avif"
+        alt="头像"
+        width="200px"
+      />
+    </div>
+    <div style="text-align: center; font-size: 12px">
+      <p>詹钧博</p>
+    </div>
+    <div style="max-width: 700px; margin: 30px auto; text-align: center">
+      <P>哇靠妈妈我成功了</P>
+      <P style="font-size: 100px; color: blue">牛逼不</P>
+      <P>厉不厉害</P>
+    </div>
+    <div style="color: red; font-size: large; text-align: center">
+      <a href="001.mp4">这里有惊喜</a>
+    </div>
+  </body>
+</html>
